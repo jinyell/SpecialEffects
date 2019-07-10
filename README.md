@@ -19,6 +19,9 @@ Users can swipe left or right to have steam come out of their ears or nostrils. 
 ### Type 2: Realistic Steam Nose
 ![Emoji](https://github.com/jinyell/SpecialEffects/blob/master/ReadMeArt/Steam%20Nose.png)
 
+## Demo
+To demo please use an Android device (tested device on Samsung S9). Be sure to have AR Core installed on your phone. Create an APK build using Unity.
+
 ## Artwork
 Special thanks to the free artwork provided by:
 
