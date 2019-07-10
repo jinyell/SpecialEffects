@@ -21,7 +21,11 @@ Users can swipe left or right to have steam come out of their ears or nostrils. 
 
 ## Artwork
 Special thanks to the free artwork provided by:
+
 Chili free icon: Icon made by ![author link](https://www.flaticon.com/authors/smashicons) from www.flaticon.com
+
 Angry free icon: Icon made by ![author link](https://www.flaticon.com/authors/pixel-perfect) from www.flaticon.com
+
 Speech bubble free icon : Icon made by ![author link](https://www.freepik.com/) from www.flaticon.com
+
 White Smoke Particle System : Particle System made by ![author link](https://assetstore.unity.com/packages/vfx/particles/white-smoke-particle-system-20404)
